@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## For end-users
+
+### Rules on how the game works:
+The Game
+Hangman is a classic word game in which you must guess the secret word one letter at a time.
+Guess one letter at a time to reveal the secret word.
+Each incorrect guess adds another part to the hangman. You only get 7 incorrect guesses.
+Enter correct letters to win the game!
+
+Install the app by following instructions below:
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
